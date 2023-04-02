@@ -32,7 +32,7 @@ export default function Home() {
                     <div className="flex flex-col gap-8">
                         <div className="flex items-center text-sans">
                             <Image
-                                src={"/me.jpg"}
+                                src={"/dylan.jpg"}
                                 alt="Picture of Dylan"
                                 width={160}
                                 height={160}
